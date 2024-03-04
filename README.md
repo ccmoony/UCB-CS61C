@@ -1,4 +1,2 @@
-# UCB CS61C.
-#Courses for computer architecture.
-#Answers to the labs of the this course(only for reference).
-##Welcome to open an issue if you have any questions.
+# UCB CS61C Computer Architecture.
+Labs and assignments of CS61C University of California, Berkeley. Feel free to raise issues for discussion.
